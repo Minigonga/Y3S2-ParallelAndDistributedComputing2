@@ -1,4 +1,4 @@
-## How to compile and run the program
+# CPD2
 
 ### Grade 18.17/20
 
@@ -6,6 +6,8 @@
 
 1. Gonçalo Pinto (up202204943@up.pt)
 2. Manuel Mo (up202205000@up.pt)
+
+## How to compile and run the program
 
 ### 1. Compile
 ```shell
